@@ -325,7 +325,7 @@ ul li:hover .dropdown
     height: 700px;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("projekat\ 3/screen.png");
+    background-image: url("projekat\ 3/Screen.png");
     /* border: 1px solid red; */
 }
 
@@ -351,7 +351,7 @@ ul li:hover .dropdown
     display: flex;
     justify-content: space-between;
     align-items: center;
-
+    cursor: pointer;
 }
 
 .segment2-watch-btn-play
