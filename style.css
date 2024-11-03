@@ -376,11 +376,6 @@ ul li:hover .dropdown
     /* border: 1px solid red; */
 }
 
-.segment2-grid
-{
-    /* border: 1px solid red; */
-}
-
 .segment2-watch-btn-desc
 {
     text-align: left;
@@ -458,7 +453,7 @@ ul li:hover .dropdown
 .segment3-container2
 {
     /* border: 1px solid red; */
-    width: 83%;
+    width: 1700px;
     margin-top: 50px;
 
     display: flex;
