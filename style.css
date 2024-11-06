@@ -1006,3 +1006,92 @@ input
 {
     display: none;
 }
+
+
+/* <><><> Footer <><><>*/
+
+footer
+{
+    margin-top: 300px;
+    /* border: 1px solid red; */
+}
+
+.footer-upper
+{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.footer-hr
+{
+    /* border: 1px solid red; */
+    border-color: rgba(105, 105, 105, 0.195);
+    margin-left: 16px;
+    width: 100%;
+}
+
+.footer-main
+{
+    margin-top: 64px;
+    margin-bottom: 80px;
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-list
+{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    row-gap: 8px;
+    font-size: 18px;
+}
+
+.footer-list li
+{
+    color: rgb(70, 70, 70);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-list li:nth-child(1)
+{
+    color: #212121;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.footer-main-container
+{
+    /* border: 1px solid red; */
+}
+
+.media-icons
+{
+    margin-right: 6px;
+}
+
+.footer-lower
+{
+    border-top: 2px solid rgba(105, 105, 105, 0.354);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.footer-lower p
+{
+    color: rgba(70, 70, 70, 0.651);
+}
+
+.footer-list2
+{
+    display: flex;
+    column-gap: 24px;
+    color: rgb(70, 70, 70);
+}
